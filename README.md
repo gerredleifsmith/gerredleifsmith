@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development with .net, CSS, and javascript
 - 🌱 I’m currently learning .net 6, bootstrap, javascript, and Blazor
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me: through email myusername @gmail.com 
+- 📫 How to reach me: through email lugiana@gmail.com 
 
 <!---
 gerredleifsmith/gerredleifsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
